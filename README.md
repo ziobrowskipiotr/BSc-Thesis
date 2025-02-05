@@ -1,3 +1,3 @@
 # BSc-Thesis
 BSc Thesis
-![Plan budynku](inz.drawio)
+![Plan budynku](diagram.svg)
